@@ -1,1 +1,1 @@
-JS training tasks from IT_Girls_School
+JS training tasks from IT_Girls_School (practicum cirriculums)
